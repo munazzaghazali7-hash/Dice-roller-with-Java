@@ -23,7 +23,6 @@ You rolled: 4
 You rolled: 1
 You rolled: 6
 
-yaml
 Copy code
 
 ---
